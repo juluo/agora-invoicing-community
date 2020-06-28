@@ -5626,23 +5626,23 @@
     },
     {
         "name": "rachidlaasri/laravel-installer",
-        "version": "4.0.2",
-        "version_normalized": "4.0.2.0",
+        "version": "4.1.0",
+        "version_normalized": "4.1.0.0",
         "source": {
             "type": "git",
-            "url": "https://github.com/RachidLaasri/LaravelInstaller.git",
-            "reference": "8063eda959fdee8b337e6ea543603e169e843897"
+            "url": "https://github.com/rashidlaasri/LaravelInstaller.git",
+            "reference": "b751b4c23dba893e9a4a12f881a6fd8fa921d228"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/RachidLaasri/LaravelInstaller/zipball/8063eda959fdee8b337e6ea543603e169e843897",
-            "reference": "8063eda959fdee8b337e6ea543603e169e843897",
+            "url": "https://api.github.com/repos/rashidlaasri/LaravelInstaller/zipball/b751b4c23dba893e9a4a12f881a6fd8fa921d228",
+            "reference": "b751b4c23dba893e9a4a12f881a6fd8fa921d228",
             "shasum": ""
         },
         "require": {
             "php": ">=7.0.0"
         },
-        "time": "2018-04-30T18:57:04+00:00",
+        "time": "2020-05-19T13:19:45+00:00",
         "type": "library",
         "extra": {
             "laravel": {
@@ -5674,7 +5674,17 @@
                 "email": "jeremykenedy@gmail.com"
             }
         ],
-        "description": "Laravel web installer"
+        "description": "Laravel web installer",
+        "funding": [
+            {
+                "url": "https://rachidlaasri.com",
+                "type": "custom"
+            },
+            {
+                "url": "https://twitter.com/rashidlaasri",
+                "type": "custom"
+            }
+        ]
     },
     {
         "name": "ralouphie/getallheaders",

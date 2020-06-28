@@ -4103,16 +4103,16 @@
         },
         {
             "name": "rachidlaasri/laravel-installer",
-            "version": "4.0.2",
+            "version": "4.1.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/RachidLaasri/LaravelInstaller.git",
-                "reference": "8063eda959fdee8b337e6ea543603e169e843897"
+                "url": "https://github.com/rashidlaasri/LaravelInstaller.git",
+                "reference": "b751b4c23dba893e9a4a12f881a6fd8fa921d228"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RachidLaasri/LaravelInstaller/zipball/8063eda959fdee8b337e6ea543603e169e843897",
-                "reference": "8063eda959fdee8b337e6ea543603e169e843897",
+                "url": "https://api.github.com/repos/rashidlaasri/LaravelInstaller/zipball/b751b4c23dba893e9a4a12f881a6fd8fa921d228",
+                "reference": "b751b4c23dba893e9a4a12f881a6fd8fa921d228",
                 "shasum": ""
             },
             "require": {
@@ -4149,7 +4149,17 @@
                 }
             ],
             "description": "Laravel web installer",
-            "time": "2018-04-30T18:57:04+00:00"
+            "funding": [
+                {
+                    "url": "https://rachidlaasri.com",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://twitter.com/rashidlaasri",
+                    "type": "custom"
+                }
+            ],
+            "time": "2020-05-19T13:19:45+00:00"
         },
         {
             "name": "ralouphie/getallheaders",
@@ -9028,5 +9038,6 @@
     "platform": {
         "php": ">=7.2"
     },
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
 }
